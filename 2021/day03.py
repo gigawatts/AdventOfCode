@@ -52,8 +52,10 @@ def part1():
 def part2():
     print('\n### Part 2 ###')
 
+    for b in range(0, 12):
 
-    print(f'Answer: {ans}')
+
+    # print(f'Answer: {ans}')
 
 
 part1()
